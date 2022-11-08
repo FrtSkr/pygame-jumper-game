@@ -12,7 +12,7 @@ class Player(pygame.sprite.Sprite):
         self.rect = self.image.get_rect()
         self.rect.center = (WIDTH/2, HEIGHT/2)
         self.vx = vector(0,0) # karakterimizin hızı, ivmeli harekette kullanılacak
-        self.acc = vector(0,0.3) # ivmeli harekette kullanacağımız ivmemiz 
+        self.acc = vector(0,0.5) # ivmeli harekette kullanacağımız ivmemiz
     
     def jump(self):
         self.rect.y += 1

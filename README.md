@@ -1,13 +1,14 @@
 # JUMPER!
 
 ---
+
 ## Images From The Game
 
-|          Login           | End |
-|:------------------------:|:-------------------------:|
-| ![alt](image/begin.png)  | ![alt](image/end.png) |
-|       In The Game        | 
-| ![alt](image/inGame.png) |
+|              Login               |             End              |         In The Game          |
+|:--------------------------------:|:----------------------------:|:----------------------------:|
+| ![login screen](image/begin.png) | ![end screen](image/end.png) | ![in game](image/inGame.png) |
+
+
 
 ### Requirements
 
